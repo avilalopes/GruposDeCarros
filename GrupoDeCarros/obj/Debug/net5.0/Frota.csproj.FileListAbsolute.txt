@@ -1,0 +1,5 @@
+D:\git\Frota\obj\Debug\net5.0\Frota.csprojAssemblyReference.cache
+D:\git\Frota\obj\Debug\net5.0\Frota.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Frota\obj\Debug\net5.0\Frota.AssemblyInfoInputs.cache
+D:\git\Frota\obj\Debug\net5.0\Frota.AssemblyInfo.cs
+D:\git\Frota\obj\Debug\net5.0\Frota.csproj.CoreCompileInputs.cache
